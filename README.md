@@ -2,3 +2,25 @@
 
 
 Interactive d3.js visualization to explore health risks that particular demographics face across the United States.
+
+<img src="assets/Images/9-responsive-d3.gif">
+
+
+
+
+
+
+
+
+____________________________________________________________________
+
+
+<img src="assets/Images/7-animated-scatter.gif">
+
+
+
+
+
+
+
+
