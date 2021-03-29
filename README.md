@@ -1,7 +1,4 @@
-# d3-challenge
-
-
-tveeder.github.io/d3-challenge/
+https://tveeder.github.io/d3-challenge/
 
 
 
