@@ -13,7 +13,7 @@
 
 .inactive {
     font-weight: lighter;
-    fill: #979797;
+    fill:  greenyellow;
     transition: fill 0.3s ease-out;
     text-anchor: middle;
 }
